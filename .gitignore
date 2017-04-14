@@ -1,0 +1,12 @@
+.idea
+node_modules
+jspm_packages
+npm-debug.log
+debug.log
+app/*.js
+app/*.js.map
+!systemjs.config.extras.js
+!systemjs.config.js
+!systemjs-angular-loader.js
+_test-output
+_temp
